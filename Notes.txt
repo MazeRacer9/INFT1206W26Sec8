@@ -1,18 +1,25 @@
 Notes
 
-These are tags ()
+These are tags <>
 
-Attribute go here
+
+Can have more than on attribute
+Attribute = value 
  |
  v
 <tag>          Content           </tag>
 Open                               Close
 
 
-<!tag>
+<!tag>  Might be just <tag>
 Empty tag
 
 
 
+Alt + W while selecting a word to put tags around it and allow you to
+change them both at the same time
 
 
+
+
+./ looks for files in your currnt folder in href="./"
