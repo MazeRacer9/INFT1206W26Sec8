@@ -23,3 +23,20 @@ change them both at the same time
 
 
 ./ looks for files in your currnt folder in href="./"
+
+
+#####################################################################
+! then tab makes the base for an html website
+#####################################################################
+
+
+
+
+
+
+
+
+
+
+
+
