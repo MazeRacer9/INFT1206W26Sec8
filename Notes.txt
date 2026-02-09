@@ -34,8 +34,17 @@ change them both at the same time
 
 
 
+<!--
+    This is comments inside html files
+    -->
 
 
+
+
+
+
+Inline css
+takes prioritiy over all.
 
 
 
