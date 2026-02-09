@@ -15,7 +15,17 @@ p{
 
 
 
+.type1{
+    background-color: pink;
+}
 
+p.type1{
+    font-size: 20px;
+}
+
+header p{
+    color: red;
+}
 
 
 
